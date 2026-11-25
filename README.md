@@ -2,7 +2,7 @@
 
 # Perfume Collection
 
-A HarmonyOS NEXT wearable app for exploring and managing a perfume collection, built with ArkTS, ArkUI.
+A HarmonyOS wearable app for exploring and managing a perfume collection, built with ArkTS, ArkUI.
 
 # Preview
 
